@@ -19,7 +19,7 @@ const Wrapper = styled.div`
     font-weight: bold;
   }
   button {
-    margin-top: 15px;
+    margin-top: 20px;
   }
 `;
 const Home = () => {
@@ -28,7 +28,7 @@ const Home = () => {
       <Wrapper>
         <div>
           <h1>WELCOME TO REACT</h1>
-          <h4>BOILERPLATE USING CRA</h4>
+          <h4>Boilerplate Using Create React App</h4>
         </div>
         <Button>GETTING STARTED</Button>
       </Wrapper>

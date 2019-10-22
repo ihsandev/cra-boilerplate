@@ -7,6 +7,7 @@ const Button = styled.button`
   border-radius: 4px;
   padding: 10px 16px;
   color: ${Color.primary};
+  outline: none;
   cursor: pointer;
   transition: ease 0.3s all;
   &:hover {

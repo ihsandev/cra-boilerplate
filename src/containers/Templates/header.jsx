@@ -15,7 +15,7 @@ const NavbarWrap = styled.nav`
   h3 {
     color: #fff;
     text-transform: capitalize;
-    font-size: 1.5em;
+    font-size: 1.3em;
     span {
       color: ${Color.primary};
     }
